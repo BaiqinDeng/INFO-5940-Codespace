@@ -1,4 +1,3 @@
-# API_KEY=sk-c8xPiNSZUXUhLNS_DJ3w4w streamlit run chat_with_pdf.py 
 import streamlit as st
 import os
 from openai import OpenAI
